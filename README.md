@@ -8,7 +8,7 @@
 
 Desenvolvedor Web Full Stack apaixonado por resolver problemas reais com código.
 
-Em 5 meses construí o **Aprisco** — um sistema SaaS completo de gestão de igrejas brasileiras, com multi-tenancy, infraestrutura em produção e mais de 15 módulos funcionando.
+Construí o **Aprisco** — um sistema SaaS completo de gestão de igrejas brasileiras, com multi-tenancy, infraestrutura em produção e mais de 15 módulos funcionando.
 
 Acredito que a melhor forma de aprender é construindo coisas reais.
 
