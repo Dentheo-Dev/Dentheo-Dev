@@ -66,7 +66,7 @@ Acredito que a melhor forma de aprender é construindo coisas reais.
 
 | **Gestolar** | SaaS de gestão escolar para escolas particulares | Django · PostgreSQL · Railway |
 
-| [FechaNegocio](https://github.com/Dentheo-Dev/FechaNegocio) | CRM Salesforce com 100% de cobertura de testes | Apex · LWC · Flow Builder |
+| [SmartSalesEnterprise](https://github.com/Dentheo-Dev/SmartSalesEnterprise) | CRM Salesforce com integração GPT-4o via Apex e 100% de cobertura de testes | Apex · LWC · Flow Builder · OpenAI |
 ---
 
 ## 📫 Contato
