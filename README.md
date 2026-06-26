@@ -10,7 +10,7 @@ Desenvolvedor Full Stack com foco em Python/Django e Salesforce (Apex, LWC, Flow
 
 Construí do zero três produtos SaaS em produção:
 - **Chamei** — helpdesk multi-tenant com cliente real pagante
-- **Aprisco** — gestão de igrejas com 15+ módulos ([apriscoapp.com.br](https://apriscoapp.com.br))
+- **Aprisco** — gestão de igrejas com 15+ módulos 
 - **Gestolar** — gestão escolar para escolas particulares
 
 Também trabalho com automações e agentes de IA usando n8n e integração com APIs de LLMs (OpenAI/GPT-4o) em Python e Apex.
